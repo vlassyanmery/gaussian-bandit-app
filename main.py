@@ -17,6 +17,7 @@ navigation = st.navigation(
         st.Page("pages/Create_Carousels.py", title="Create Carousels", default=True),
         st.Page("pages/Interaction.py", title="Interaction"),
         st.Page("pages/Analytics.py", title="Analytics",),
+        st.Page("pages/Gaussian_Bandit.py", title="Gaussian Bandit"),
     ]
 )
 
