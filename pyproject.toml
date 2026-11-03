@@ -16,4 +16,4 @@ dependencies = [
 ]
 
 [tool.setuptools]
-py-modules = ["bandit_utils"]
+py-modules = ["bandit_utils", "gaussian_bandit"]
